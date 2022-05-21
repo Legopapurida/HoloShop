@@ -30,7 +30,7 @@ Shop store based on monolithic architecture using Django, AWS, Celery, NGinx, Do
 
 ## Installation
 
-Install my-project with npm
+Install Holo Shop with Docker
 
 ```bash
   docker run -d -p 8000:8000
